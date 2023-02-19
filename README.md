@@ -9,4 +9,4 @@ Name on VScode :
 Switch the background color between 
   - DARK 
   - RESTFUL 
-  - LIGHT 
+  - TRANSPARENT
