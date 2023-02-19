@@ -40,7 +40,6 @@
 		"editorGutter.addedBackground": "#7FBAFF60",
 		"editorGutter.deletedBackground": "#43F5F560",
 		"editorGutter.modifiedBackground": "#74FFCD60",
-		"editorHoverWidget.background": "#000000",
 		"editorHoverWidget.border": "#E0FFFD10",
 		"editorIndentGuide.activeBackground": "#000000",
 		"editorIndentGuide.background": "#00000070",
@@ -64,7 +63,9 @@
 		"tab.inactiveBackground": "#2C8EFF20",
 		"tab.inactiveForeground": "#A9F9F6af",
 		"terminalCursor.foreground": "#62D3FF",
-		"editorSuggestWidget.background": "#000000"
+		"list.highlightForeground": "#2C8EFF",
+		"editorSuggestWidget.background": "#000000",
+		"editorHoverWidget.background": "#000000",
 	  },
 	  "tokenColors": [
 		{
